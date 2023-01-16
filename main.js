@@ -1,4 +1,4 @@
-import Vue from 'vue';
+import Vue from 'index.html';
 
 Vue.config.productionTip = false;
 
